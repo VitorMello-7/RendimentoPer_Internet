@@ -5,3 +5,5 @@ A tabela 7419 se refere a pesquisa "Rendimento médio mensal real domiciliar per
 
 Para entender a capacidade da biblioteca SidraPy decidi aplica-la juntamente com outras bibliotecas para testar sua integração, utilizei Pandas e Seaborn, para uma análise exploratória e plotar gráficos.
 O resultado foi excelente e ainda fui capaz de tirar alguns insights.
+
+Para iniciar uma consulta em Python com a SidraPy, o primeiro passo é utilizar o comando [sidrapy.get_table()] e passar alguns parâmetros da tabela.
